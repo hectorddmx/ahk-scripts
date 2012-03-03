@@ -1,0 +1,9 @@
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.livereload
+Thumbs.db
+db/link.db
+*.exe
+*.txt
+*.ahk.bak
